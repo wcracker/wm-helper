@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wcracker.wmhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wcracker.wmhelper.MyBundle
 
 class MyApplicationService {
 
